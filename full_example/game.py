@@ -29,8 +29,7 @@ class Obstacle:
 
 class Game:
 
-    def __init__(self, title, height, width, players, obstacle_count):
-        self.title = title
+    def __init__(self, height, width, players, obstacle_count):
         self.height = height
         self.width = width
         self.players = players

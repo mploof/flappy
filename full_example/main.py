@@ -1,4 +1,4 @@
-from flappy import Player, Game
+from game import Player, Game
 from gameinterface import GameInterface
 
 # Create two players and set their initial positions, keys, and icons
